@@ -1,0 +1,24 @@
+*{
+    font-style: italic;
+}
+
+div{
+    text-decoration: underline;
+}
+
+.temp1{
+    color: red;
+}
+
+div a{
+    color: yellow;
+}
+
+div>h2{
+    background-color: black;
+    color: white;
+}
+
+#tempId{
+    font-weight: bolder;
+}
